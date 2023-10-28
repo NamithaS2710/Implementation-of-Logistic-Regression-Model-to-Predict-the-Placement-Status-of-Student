@@ -92,16 +92,26 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ```
 
 ## Output:
+1. Placement data
+2. Salary data
 ![image](https://github.com/NamithaS2710/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/133190822/c96f1e08-891b-4480-b0a8-796d469ff323)
+3. Checking the null function()
 ![image](https://github.com/NamithaS2710/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/133190822/1e033cbb-87f7-4a41-8284-d4193e52cfd5)
+4. Data duplicate 
 ![image](https://github.com/NamithaS2710/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/133190822/a5e4e0b1-454b-4647-a6d2-f90ec04920c2)
+5. Print data
 ![image](https://github.com/NamithaS2710/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/133190822/58d33a19-4324-4e8e-a35f-722d1c96368b)
+6. Data status
 ![image](https://github.com/NamithaS2710/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/133190822/107c58ec-baee-42b6-a35f-3955ff77758a)
+7. y_prediction array
 ![image](https://github.com/NamithaS2710/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/133190822/936c705f-9238-46bb-9a29-99f8a2eefb86)
+8. Accuracy value
 ![image](https://github.com/NamithaS2710/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/133190822/85b0e21d-eeaa-4ef6-8543-ccb43ec7b398)
-
+9. Confusion matrix
 ![image](https://github.com/NamithaS2710/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/133190822/b0dabd5c-ad23-4e86-9977-d54d04c0b727)
+10. Classification report
 ![image](https://github.com/NamithaS2710/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/133190822/4dd08a93-8e44-4fdd-b26c-977eaa157b93)
+11. Prediction of LR
 ![image](https://github.com/NamithaS2710/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/133190822/bbd2c8a8-432d-4022-a988-9d83e958d8d2)
 
 
